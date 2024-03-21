@@ -23,8 +23,6 @@
 	<img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy">
 </p>
 
-`<br><!-- TABLE OF CONTENTS -->`
-
 <details>
   <summary>Table of Contents</summary><br>
 
